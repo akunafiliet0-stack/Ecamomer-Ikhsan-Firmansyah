@@ -21,3 +21,5 @@ Halaman Terlaris menampilkan daftar produk yang memiliki tingkat penjualan terti
 
 ## 5. REKOMENDASI
 ![alt text](?raw=true)
+
+Halaman Rekomendasi menampilkan pilihan produk yang direkomendasikan kepada pengguna berdasarkan produk unggulan dan favorit pelanggan, sehingga memudahkan dalam menemukan snack yang layak untuk dibeli. Produk ditampilkan dalam bentuk kartu yang berisi gambar produk, nama produk, harga, serta tombol Tambah untuk memasukkan produk ke dalam keranjang belanja dengan cepat. Pada halaman ini juga tersedia slider horizontal yang memungkinkan pengguna menggeser tampilan ke kanan atau kiri untuk melihat lebih banyak produk rekomendasi tanpa harus berpindah ke halaman lain. Produk yang ditampilkan, seperti Keripik Singkong Original, Keripik Pisang, Basreng Pedas, Makaroni Pedas, Seblak Kering, dan produk lainnya, dipilih sebagai rekomendasi agar pengguna memperoleh referensi produk terbaik yang tersedia di toko. Dengan tampilan yang responsif, sederhana, dan mudah digunakan, fitur rekomendasi membantu meningkatkan kenyamanan pengguna dalam menjelajahi produk sekaligus mempercepat proses pengambilan keputusan saat berbelanja.
