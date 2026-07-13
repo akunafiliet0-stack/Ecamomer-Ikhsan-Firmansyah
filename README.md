@@ -13,3 +13,6 @@ Halaman Katalog Produk menampilkan seluruh produk snack yang tersedia di Toko 3 
 ![alt text](https://github.com/akunafiliet0-stack/Ecamomer-Ikhsan-Firmansyah/blob/main/Gambar/Screenshot%202026-07-13%20221458.png?raw=true)
 
 Halaman Best Seller dan Terlaris menampilkan kumpulan produk yang paling diminati oleh pelanggan berdasarkan tingkat penjualan. Pada bagian Best Seller, pengguna dapat melihat produk-produk yang paling banyak dibeli, seperti Keripik Singkong Original, Keripik Pisang, Seblak Kering, dan Kacang Disco, yang ditampilkan dalam bentuk kartu berisi gambar produk, nama produk, harga, serta tombol Tambah untuk memasukkan produk ke dalam keranjang belanja dengan cepat. Sementara itu, pada bagian Terlaris, website menampilkan produk-produk dengan penjualan tertinggi sehingga memudahkan pengguna menemukan snack yang sedang populer dan banyak dipilih oleh pelanggan lain. Kedua fitur ini membantu pengguna memperoleh rekomendasi produk terbaik tanpa harus mencari satu per satu, sekaligus meningkatkan pengalaman berbelanja dengan menyajikan pilihan produk unggulan yang berkualitas dan banyak diminati.
+
+## 4. TERLARIS
+![alt text](?raw=true)
