@@ -18,3 +18,6 @@ Halaman Best Seller dan Terlaris menampilkan kumpulan produk yang paling diminat
 ![alt text](https://github.com/akunafiliet0-stack/Ecamomer-Ikhsan-Firmansyah/blob/main/Gambar/Screenshot%202026-07-13%20221510.png?raw=true)
 
 Halaman Terlaris menampilkan daftar produk yang memiliki tingkat penjualan tertinggi di Toko 3 Putra, sehingga memudahkan pengguna dalam menemukan snack yang paling diminati oleh pelanggan. Setiap produk ditampilkan dalam bentuk kartu yang berisi label Terlaris, gambar produk, nama produk, harga, serta tombol Tambah yang berfungsi untuk memasukkan produk ke dalam keranjang belanja dengan cepat. Produk yang ditampilkan, seperti Basreng Pedas, Makaroni Pedas, Kerupuk Seblak, dan Stik Keju, dipilih berdasarkan popularitas penjualan sehingga dapat menjadi referensi bagi pengguna yang ingin membeli produk favorit pelanggan. Selain itu, tampilan halaman disusun secara rapi, responsif, dan mudah dipahami sehingga memberikan pengalaman berbelanja yang lebih nyaman serta membantu pengguna menemukan produk unggulan dengan lebih cepat dan efisien.
+
+## 5. REKOMENDASI
+![alt text](?raw=true)
