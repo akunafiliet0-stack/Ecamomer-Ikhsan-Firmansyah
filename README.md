@@ -29,3 +29,6 @@ Halaman Rekomendasi menampilkan pilihan produk yang direkomendasikan kepada peng
 
 Halaman Tentang berfungsi sebagai media untuk memperkenalkan Toko 3 Putra kepada pengunjung serta memberikan gambaran mengenai tujuan dan komitmen toko dalam menyediakan berbagai pilihan snack berkualitas. Pada halaman ini ditampilkan ucapan "Selamat Datang di Toko 3 Putra" yang diikuti dengan penjelasan mengenai layanan e-commerce yang menawarkan berbagai macam camilan dengan harga terjangkau, produk yang selalu segar, pelayanan yang ramah, serta proses transaksi yang aman dan terpercaya. Selain itu, halaman ini juga menyampaikan harapan agar setiap produk yang ditawarkan dapat menjadi teman saat bersantai maupun berkumpul bersama keluarga dan teman, sekaligus mengucapkan terima kasih atas kepercayaan pelanggan. Dengan desain yang sederhana, elegan, dan mudah dibaca, halaman Tentang membantu membangun kepercayaan pengguna serta memperkuat citra Toko 3 Putra sebagai toko snack yang mengutamakan kualitas produk dan kepuasan pelanggan.
 
+## 7. KONTAK TOKO
+![alt text](?raw=true)
+
